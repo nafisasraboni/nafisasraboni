@@ -96,14 +96,14 @@
 # 🚀 Featured Projects
 
 ### 🔐 Malware Image Classification Thesis
-Hybrid CNN-BiLSTM based malware family classification using TensorFlow and Keras.
+Hybrid CNN-BiLSTM based malware family classification using CNN & BiLSTM.
 
 **Tech Stack:** Python • CNN • BiLSTM
 
 ---
 
 ### 📚 Book Shop Management System
-A web-based bookstore management system with CRUD functionality.
+A web-based bookstore management system. 
 
 **Tech Stack:** HTML • CSS • PHP • MySQL • React.js • node.js • express.js • firebase 
 
@@ -117,7 +117,7 @@ Responsive personal portfolio website.
 ---
 
 ### 🎬 VibeSpace
-Netflix-inspired frontend project.
+Netflix-inspired full-stack project.
 
 **Tech Stack:**  React.js • node.js • express.js • JavaScript • MongoDB • Postman
 
