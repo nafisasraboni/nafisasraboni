@@ -85,6 +85,7 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity_AI-6E56CF?style=for-the-badge"/>
 </p>
+
 ---
 
 # 🚀 Featured Projects
@@ -193,10 +194,3 @@ JavaScript solutions for LeetCode problems.
 
 </div>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
