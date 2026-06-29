@@ -190,9 +190,4 @@ JavaScript solutions for LeetCode problems.
 
 ---
 
-<div>
-
-### Thanks for visiting my profile!
-
-</div>
 
