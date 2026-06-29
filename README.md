@@ -32,7 +32,7 @@
 - 🌐 Interested in Modern Web Development
 - 📚 Love solving real-world problems through software
 - 🎯 Goal: Build impactful software products and continuously improve my development skills.
-- ⭐ Portfolio link : https://sraboni.dev/
+- ⭐ Portfolio: [sraboni.dev](https://sraboni.dev/)
 
 ---
 
@@ -119,7 +119,7 @@ Responsive personal portfolio website.
 ### 🎬 VibeSpace
 Netflix-inspired frontend project.
 
-**Tech Stack:**  React.js • node.js • express.js • JavaScript • MongoDB • postman
+**Tech Stack:**  React.js • node.js • express.js • JavaScript • MongoDB • Postman
 
 ---
 
@@ -190,7 +190,7 @@ JavaScript solutions for LeetCode problems.
 
 ---
 
-<div align="center">
+<div>
 
 ### Thanks for visiting my profile!
 
