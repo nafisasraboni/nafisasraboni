@@ -1,19 +1,23 @@
 <div align="center">
 
-# Hi 👋, I'm Nafisa Tabassum Sraboni
+<img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/1.jpeg" width="100%" alt="Banner"/>
 
-### 💻 Junior Full Stack Developer • 🧩 Competitive Programmer • 🔬 Researcher
+### 💻 Junior Full Stack Developer | 🧩 Competitive Programmer | 🔬 Researcher
 
 🚀 Building Real Products  
 🏆 1st Runner-Up, Tech Debate 2.0  
 🥈 2nd Runner-Up, National Case Solving Competition
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+and+Building+🚀" />
+<p align="center">
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=nafisasraboni&label=Profile+Views&color=3B82F6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/nafisasraboni?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/nafisasraboni?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nafisasraboni&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/nafisasraboni?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Rajshahi,%20Bangladesh-blue?style=for-the-badge"/>
+
 </p>
 
 </div>
@@ -28,6 +32,7 @@
 - 🌐 Interested in Modern Web Development
 - 📚 Love solving real-world problems through software
 - 🎯 Goal: Build impactful software products and continuously improve my development skills.
+- ⭐ Portfolio link : https://sraboni.dev/
 
 ---
 
@@ -168,29 +173,26 @@ JavaScript solutions for LeetCode problems.
 
 # 🤝 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/nafisasraboni">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+📧 **Email:**  
+<a href="mailto:nafisasraboni2207@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+💼 **LinkedIn:**  
 <a href="https://www.linkedin.com/in/nafisasraboni/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+💻 **LeetCode:**  
 <a href="https://leetcode.com/u/nafisa_srabonii/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code • Learn • Build • Repeat"* 🚀
+### Thanks for visiting my profile!
 
 </div>
 
