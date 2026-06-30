@@ -128,6 +128,14 @@ JavaScript solutions for LeetCode problems.
 
 ---
 
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/github-metrics.svg" width="100%"/>
+
+</p>
+
 # 📊 GitHub Analytics
 
 <div align="center">
