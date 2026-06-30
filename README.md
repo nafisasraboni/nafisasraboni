@@ -132,9 +132,9 @@ JavaScript solutions for LeetCode problems.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nafisasraboni&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=nafisasraboni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=nafisasraboni&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=nafisasraboni&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -142,9 +142,9 @@ JavaScript solutions for LeetCode problems.
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisasraboni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nafisasraboni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img width="55%" src="https://github-profile-trophy.vercel.app/?username=nafisasraboni&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
+<img width="55%" src="https://github-profile-trophy.vercel.app/?username=nafisasraboni&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
 
 </div>
 
@@ -154,11 +154,9 @@ JavaScript solutions for LeetCode problems.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nafisasraboni&theme=github-dark&bg_color=0D1117&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafisasraboni&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
 
 # 🌱 Currently Exploring
 
