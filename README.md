@@ -136,26 +136,6 @@ JavaScript solutions for LeetCode problems.
 
 </p>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=nafisasraboni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=nafisasraboni&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nafisasraboni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img width="55%" src="https://github-profile-trophy.vercel.app/?username=nafisasraboni&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
