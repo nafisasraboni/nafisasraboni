@@ -1,72 +1,65 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/1.jpeg" width="100%">
+</p>
 
-<img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/1.jpeg" width="100%" alt="Banner"/>
+<h1 align="center">Hi 👋 I'm Nafisa Sraboni</h1>
 
-### 💻 Junior Full Stack Developer | 🧩 Competitive Programmer | 🔬 Researcher
-
-🚀 Building Real Products  
-🏆 1st Runner-Up, Tech Debate 2.0  
-🥈 2nd Runner-Up, National Case Solving Competition
+<h3 align="center">
+Junior Full Stack Developer • Competitive Programmer • Researcher
+</h3>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nafisasraboni&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/nafisasraboni?label=Followers&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Location-Rajshahi,%20Bangladesh-blue?style=for-the-badge"/>
-
+Building Real Products • AI Enthusiast • Open Source Contributor
 </p>
-
-</div>
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
 - 💻 Junior Full Stack Developer
-- 🧩 Competitive Programmer & Researcher
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌐 Interested in Modern Web Development
-- 📚 Love solving real-world problems through software
-- 🎯 Goal: Build impactful software products and continuously improve my development skills.
+- 🧩 Competitive Programmer
+- 🔬 Researcher
+- 🤖 AI & Machine Learning Enthusiast
+- 🌐 Full Stack Web Developer
+- 📚 Love solving real-world problems
+- 🚀 Always learning new technologies
 - ⭐ Portfolio: [sraboni.dev](https://sraboni.dev/)
+
+🎯 **Goal**
+
+Build impactful software products and contribute to Open Source.
+
+🌍 **Location**
+
+Rajshahi, Bangladesh
+
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,java,typescript,mysql"/>
+
 </p>
+
 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,typescript,nextjs,tailwind"/>
+
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
 </p>
 
 ### 🗄️ Database
