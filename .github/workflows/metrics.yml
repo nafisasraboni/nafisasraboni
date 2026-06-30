@@ -1,0 +1,41 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: nafisasraboni
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Dhaka
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+          plugin_isocalendar: yes
+
+          plugin_achievements: yes
+
+          plugin_lines: yes
+
+          plugin_followup: yes
+
+          plugin_habits: yes
+
+          plugin_stars: yes
