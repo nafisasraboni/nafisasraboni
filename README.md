@@ -2,146 +2,75 @@
   <img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/1.jpeg" width="100%">
 </p>
 
-<h3 align="center">
-Junior Full Stack Developer • Competitive Programmer • Researcher
-</h3>
+<h1 align="center">Hi 👋, I'm Nafisa Tabassum Sraboni</h1>
+<h3 align="center">A Full-Stack Enthusiast, Competitive Programmer & Researcher from Bangladesh</h3>
 
-<p align="center">
-Building Real Products • AI Enthusiast • Open Source Contributor
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisasraboni&label=Profile%20views&color=0e75b6&style=flat" alt="nafisasraboni" /> </p>
+
+- 🔭 I’m currently working on [A Tailwind CSS based Project for learning](https://nature.sraboni.dev/)
+
+- 🌱 I’m currently learning **React & Tailwind CSS**
+
+- 👯 I’m looking to collaborate on **Frontend Development**
+
+- 👨‍💻 All of my projects are available at [https://sraboni.dev/](https://sraboni.dev/)
+
+- 💬 Ask me about **HTML,CSS3,JavaScript,ES6,TypeScript**
+
+- 📫 How to reach me **nafisasraboni2207@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HtgJxCEdoow1NyUxEAjsbw8VvF-eWo8L/view?usp=drive_link](https://drive.google.com/file/d/1HtgJxCEdoow1NyUxEAjsbw8VvF-eWo8L/view?usp=drive_link)
+
+- ⚡ Fun fact **I am a photography enthusiast!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nafisasraboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisasraboni" height="30" width="40" /></a>
+<a href="https://kaggle.com/nafisasraboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafisasraboni" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@nafisatabassum-tj8jm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nafisatabassum-tj8jm" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nafisa_srabonii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafisa_srabonii" height="30" width="40" /></a>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-- 💻 Junior Full Stack Developer
-- 🧩 Competitive Programmer
-- 🔬 Researcher
-- 🤖 AI & Machine Learning Enthusiast
-- 🌐 Full Stack Web Developer
-- 📚 Love solving real-world problems
-- 🚀 Always learning new technologies
-- ⭐ Portfolio: [sraboni.dev](https://sraboni.dev/)
-
-🎯 **Goal**
-
-Build impactful software products and contribute to Open Source.
-
-🌍 **Location**
-
-Rajshahi, Bangladesh
-
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p>
-
-<img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,java,typescript,mysql"/>
-
+<!-- Skill Icons Badges Section -->
+<h3 align="left">💻 Programming Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,c,cpp,ts,dart,matlab" />
+  </a>
 </p>
 
-
-### 🎨 Frontend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,typescript,nextjs,tailwind"/>
-
+<h3 align="left">🎨 Frontend Development</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,ts" />
+  </a>
 </p>
 
-### ⚙️ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-
+<h3 align="left">⚙️ Backend Development & Database</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  </a>
 </p>
 
-### 🗄️ Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<h3 align="left">🤖 Machine Learning & Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,postman,ai,ps,arduino,flutter" />
+  </a>
 </p>
-
-### ☁️ Cloud & Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudflare,firebase"/>
-<br><br>
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity_AI-6E56CF?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔐 Malware Classification | CNN + BiLSTM malware detection | Python • CNN • BiLSTM |
-| 📚 Book Shop Management | Full Stack Book Store | HTML • CSS • PHP • MySQL • React.js • node.js • express.js • firebase  |
-| 🌐 Portfolio | Responsive Portfolio | HTML • CSS • JavaScript |
-| 🎬 VibeSpace | Netflix Inspired Platform | React.js • node.js • express.js • JavaScript • MongoDB • Postman |
-| 🧩 LeetCode Solutions | JavaScript DSA Problems | JavaScript |
----
 
 # 📊 GitHub Metrics
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/github-metrics.svg" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/github-metrics.svg" width="100%"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafisasraboni&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Exploring
-
-- ⚛️ React.js
-- 🔷 TypeScript
-- ⚡ Node.js & Express.js
-- 🧠 Deep Learning
-- 📊 Data Structures & Algorithms
-- 🚀 Modern Full Stack Development
-
----
-
-## 🤝 Connect With Me
-
-📧 Email
-<a href="mailto:nafisasraboni2207@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-💼 LinkedIn
-<a href="https://linkedin.com/in/nafisasraboni">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-🧩 LeetCode
-<a href="https://leetcode.com/u/nafisa_srabonii/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-🌐 Portfolio
-[https://sraboni.dev](https://sraboni.dev)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisasraboni&" alt="nafisasraboni" /></p>
 
 ---
 
