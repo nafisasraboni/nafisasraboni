@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/1.jpeg" width="100%">
+  <img src="https://raw.githubusercontent.com/nafisasraboni/nafisasraboni/main/Bannar.jpg" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafisa Tabassum Sraboni</h1>
